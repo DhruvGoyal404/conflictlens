@@ -1,6 +1,6 @@
 # ConflictLens
 
-See both sides of every merge conflict.
+Learn Git by seeing both sides of every merge conflict.
 
 ConflictLens is a small web app for resolving Git merge conflicts visually.
 Paste a file that contains conflict markers, and it shows each conflict with
