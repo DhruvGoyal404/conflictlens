@@ -18,7 +18,7 @@ copy the clean, marker-free result. Everything runs in the browser.
 
 ## Run locally
 
-Requires Node.js 22 or newer.
+Requires Node.js 22 or newer and npm 10 or newer.
 
 ```bash
 npm install
