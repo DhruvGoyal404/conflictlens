@@ -1,6 +1,6 @@
 # ConflictLens
 
-Ship clean merges faster: see both sides of every conflict.
+Learn Git and ship clean merges faster: see both sides of every conflict.
 
 ConflictLens is a small web app for resolving Git merge conflicts visually.
 Paste a file that contains conflict markers, and it shows each conflict with
